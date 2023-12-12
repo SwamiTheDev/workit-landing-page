@@ -19,7 +19,8 @@ Elevate your data experience with Workit – Tailored to Your Needs! 📊✨
 - SCSS
 
 #### 🖥️ Project Screenshots:
-![Workit Landing Page Screenshot] ![workit landing page](https://github.com/SwamiTheDev/workit-landing-page/assets/119602881/6584bbf2-1138-463d-ae88-239684f6909f)
+ ![workit landing page](![Frame 1](https://github.com/SwamiTheDev/workit-landing-page/assets/119602881/35f9ba5d-db06-404d-b91b-42cbed6afb02)
+)
  
 
 #### 🤖 GitHub Repository:
